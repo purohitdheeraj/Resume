@@ -6,10 +6,9 @@
 
 - **Location**: Mumbai, India
 - **Email**: purohitdheeraj89@gmail.com
-- **LinkedIn**: [Dheeraj Purohit](https://www.linkedin.com/in/dheeraj-purohit-79ba4a168/)
-- **GitHub**: [github.com/purohitdheeraj](https://github.com/purohitdheeraj)
-- **Website**: [www.dheeraj.is.a.dev](https://peerlist.io/purohitdheeraj)
-
+- **LinkedIn**: https://www.linkedin.com/in/dheeraj-purohit-79ba4a168/
+- **GitHub**: https://github.com/purohitdheeraj
+- **Website**: https://peerlist.io/purohitdheeraj
 ---
 
 ### Profile Summary
