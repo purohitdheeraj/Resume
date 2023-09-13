@@ -71,9 +71,9 @@ _March 2023 - August 2023_
   provides valuable feedback for candidates to improve their interview skills. PyQt Based Desktop Application
 - [x] **Tech Stack used**: Python, PyQt for UI Development, Matplotlib, Librosa, MLP Classifier
 
-- Gave a talk on the role of web browsers in digital forensics at the International Conference of Law and Forensic Justice, March 5-6, 2022. [My talk on web browsers](https://www.youtube.com/watch?v=xQ1hVL2_2Bg)
+- Gave a talk on the role of web browsers in digital forensics at the International Conference of Law and Forensic Justice, March 5-6, 2022. My talk on web browsers: https://www.youtube.com/watch?v=xQ1hVL2_2Bg
 
-- Awarded 1st prize for presenting a technical paper at the 9th National Conference on the Role of Engineers in Nation Building – 2021 (NCRENB-2021). Published Paper: [NLP Based Interview Assessment System](https://www.viva-technology.org/New/IJRI/2021/104.pdf)
+- Awarded 1st prize for presenting a technical paper at the 9th National Conference on the Role of Engineers in Nation Building – 2021 (NCRENB-2021). Published Paper: https://www.viva-technology.org/New/IJRI/2021/104.pdf
 
 ---
 
@@ -83,10 +83,10 @@ _March 2023 - August 2023_
 
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Description**: A Design Library guided by Inclusive Design Principles designed to improve accessibility, providing an inclusive user experience for all.
-- **GitHub**: [github.com/purohitdheeraj/Inclusive-Design](https://github.com/purohitdheeraj/Inclusive-Design)
+- **GitHub**: https://github.com/purohitdheeraj/Inclusive-Design
 
 #### CineMate
 
 - **Tech Stack**: ReactJs, Tailwind, React-Router
 - **Description**: CineMate: Your go-to for current movies and ratings.
-- **GitHub**: [github.com/purohitdheeraj/cinemate](https://github.com/purohitdheeraj/cinemate)
+- **GitHub**: https://github.com/purohitdheeraj/cinemate
