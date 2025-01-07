@@ -18,7 +18,7 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 ### Skills
 
 - **Programming Languages**: JavaScript (ES6+), TypeScript, Python
-- **Front-end**: React, Redux, React-Router, Handlebars, TailwindCSS, Material UI, Styled Components, Astro
+- **Front-end**: React, Redux, React-Router, NextJs, Sveltekit, Handlebars, TailwindCSS, Material UI, Styled Components, Astro
 - **Back-end**: Node.js, Express, Firebase
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, Webpack, Figma, WordPress
@@ -26,22 +26,29 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 
 ---
 
-### Experience
+### Experience (2+ years)
 
-#### Full Stack Developer at Skill Valley
+#### Founding Enginer at Profile.fyi
 
-_August 2023 - Present_
+_March 2024 - Present_
 
-- Collaborated on the VeWrite aimed at simplifying content management for writers.
-- Conducted user research, competitive analysis and contributed to UX design for a seamless user experience.
+- Spearheaded the development and maintenance of the web platform during the rebranding from Duggup to Profile.fyi, driving user growth from 8K to 20K+.  
 
-- Engineered key features including an admin dashboard, content categorization filters, and idea repository.
+- Designed and built a personal dashboard for managing drafts and published posts, featuring a Svelte-based tiptap editor and LLM-powered tools to overcome writer's block.  
 
-- We used technologies such as React JS, Redux, Tailwind CSS, and Firebase to build an exclusive platform for writers.
+- Developed Takes, a feature enabling users to share insights on industry trends through multimedia, fostering discussions and showcasing thought leadership to peers and recruiters.  
 
-#### UX Designer at Develop for Good
+- Implemented a real-time resume parsing system using Server-Sent Events (SSE), extracting key professional data and dynamically building user timelines in 30 seconds.  
 
-_March 2023 - August 2023_
+- Built a scalable, multistep video recording and preview feature from scratch in Svelte, utilizing multipart upload with pre-send URLs.  
+
+- Integrated Stripe checkout for seamless payment processing, supporting subscription-based billing and one-time transactions via stripe js sdk.  
+
+- Enhanced SEO through server-side rendering (SSR) and dynamic Open Graph (OG) image generation for improved social media previews and media optimization via cdn.
+
+#### UX Designer + Product Lead at Develop for Good
+
+_March 2023 - March 2024_
 
 - Improved the current website for easier community program participation.
 
@@ -85,8 +92,8 @@ _March 2023 - August 2023_
 - **Description**: A Design Library guided by Inclusive Design Principles designed to improve accessibility, providing an inclusive user experience for all.
 - **GitHub**: https://github.com/purohitdheeraj/Inclusive-Design
 
-#### CineMate
+#### Vewrite
 
-- **Tech Stack**: ReactJs, Tailwind, React-Router
-- **Description**: CineMate: Your go-to for current movies and ratings.
-- **GitHub**: https://github.com/purohitdheeraj/cinemate
+- **Tech Stack**: ReactJs, Tailwind, React-Router, Firebase, Sentry
+- **Description**: Developed a customized platform using React JS, Tailwind CSS, and Firebase, enabling seamless management of writing projects and effective collaboration with fellow writers, while unlocking new opportunities.
+- **GitHub**: https://github.com/purohitdheeraj/C4-team-4
